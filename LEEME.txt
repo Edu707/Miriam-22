@@ -1,0 +1,1 @@
+VERSIÓN ANIME — 19 páginas. Abre index.html con Live Server. Conserva tus imágenes en manga/01.png a manga/19.png y tu música en musica/cumpleanos.mp3. La introducción ahora usa assets/parque-anime.png y palomas SVG animadas. Si ya tenías las imágenes y la música en tu carpeta anterior, no las borres: copia solo index.html, style.css, script.js y assets/parque-anime.png.
